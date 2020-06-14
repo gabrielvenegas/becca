@@ -1,0 +1,7 @@
+{
+  "swagger": {
+    "outputDirectory": "./dist/api",
+    "entryFile": "./src/api/controllers/**/*.ts",
+    "ignore": ["**/node_modules/**"]
+  }
+}
